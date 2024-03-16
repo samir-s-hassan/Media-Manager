@@ -11,7 +11,7 @@ The following functionality is completed:
 - [X] A user can search for media by title
 - [X] A user can sort the media by its genre
 
-## How to run app
+## How to run
 
 1. Run "javac Test2.java" to compile the app
 2. Run "java Test2" to run the app
