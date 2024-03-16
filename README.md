@@ -27,7 +27,7 @@ The media.txt is a text file that contains all the information regarding media. 
 
 ## License
 
-    Copyright 2023 Samir Hassan
+    Copyright 2022 Samir Hassan
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
